@@ -51,14 +51,14 @@ To-Do
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZauteKm/UseTGidBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dqanshi/UseTGidBot)
 
 ---
 
 ### Deploy in your VPS
 
 ```
-git clone https://github.com/ZauteKm/UseTGidBot
+git clone https://github.com/dqanshi/UseTGidBot
 cd UseTGidBot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
